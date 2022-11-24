@@ -6,6 +6,7 @@ Add CORS Headers to preflight request OPTIONS
 
 ### Docker
 
-`Dockerfile` **Only for production** 
+`Dockerfile.dev` **Only for development**
+`Dockerfile.prod` **Only for production** 
 
-Exposed port: `3000`
+Exposed port (both dockerfiles): `3000`
